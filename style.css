@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Minimal Grid Child
+ Description:  Minimal Grid Child Theme
+ Author:       Julius Schultz-lloyd
+ Template:     minimal-grid
+ Version:      1.0.0
+*/
+
+.menu-panel {
+    background: #E0181C;
+}
+
+.main-navigation ul li a {
+  color: #31DB74;
+}
+
+a:active, a:hover, a:visited {
+    color: #3A3939;
+	outline: 0;
+    text-decoration: none;
+}
